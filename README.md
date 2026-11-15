@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-material.svg)](https://deepseekbase.com/plugins/dsh-material/)
 <p align="center"><strong>dsh-material — 材料查询与选材</strong></p>
 
 常见金属与塑料的密度/强度/成本对比，按条件筛候选。
